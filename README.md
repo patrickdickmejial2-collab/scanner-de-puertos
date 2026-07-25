@@ -56,6 +56,7 @@ scanner-de-puertos/
 - Escaneo multihilo para acelerar el proceso en rangos grandes
 - Exportar resultados a un archivo (CSV o TXT)
 - Interfaz gráfica simple
+- Agregar una barra de carga
 
 ## Autor
 
